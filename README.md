@@ -9,5 +9,5 @@ Function contains:
 
 How deploy functions
 
-To deploy all function type <code>firebase deploy</code> in Commend Line inside project/
-To deploy single/a few function type <code>firebase deploy --only functions:</code> in Commend Line ins
+ - To deploy all function type <code>firebase deploy</code> in Commend Line inside project
+ - To deploy single/a few function type <code>firebase deploy --only functions:</code> in Commend Line ins
