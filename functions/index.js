@@ -130,7 +130,3 @@ exports.deleteEvents = functions.region('europe-west1').pubsub.schedule('55 23 *
         console.debug(error);
     }
 });
-
-
-// firebase deploy
-// firebase deploy --only functions:
